@@ -1,2 +1,9 @@
+
+# Visual Studio cache / temporary files
 .vs/
 *.ipch
+*.db
+*.suo
+*.user
+bin/
+obj/
